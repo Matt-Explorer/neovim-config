@@ -29,7 +29,6 @@ vim.keymap.set('n','<leader>v',':vsplit<CR>')
 vim.keymap.set('n','<leader>h',':split<CR>')
 
 
-
 require("config.lazy")
 
 
